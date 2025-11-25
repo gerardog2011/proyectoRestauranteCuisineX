@@ -58,3 +58,12 @@ Este proyecto es una aplicación web para la gestión digital de la carta de un 
 - PHP 7.4 o superior
 - MySQL 5.7 o superior
 - Navegador web moderno
+
+## 👨‍💻 Autor
+**Jafet Gerardo Guardia Soto**
+
+📧 Email: jafet409@gmail.com
+
+💼 LinkedIn:[ Gerardo Guardia](https://www.linkedin.com/in/gerardo-guardia/)
+
+💻 GitHub: @gerardog2011
